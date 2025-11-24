@@ -1,7 +1,7 @@
 # Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
 
 ## Name: SOWJANYA K 
-# Register no.: 212223090023
+## Register no.: 212223090023
 ## Aim: To perform the Exploration of Prompting Techniques for Video Generation
 ---
 
